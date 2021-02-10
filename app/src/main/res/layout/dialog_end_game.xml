@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="100dp"
+    android:layout_marginBottom="100dp"
+    android:background="@drawable/main">
+
+
+    <TextView
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:text="@string/game_end"
+        android:textSize="30sp"></TextView>
+
+    <Button
+        android:id="@+id/button_to_main"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/button_type1"
+        android:text="@string/to_main"
+        android:textSize="24sp"
+        android:padding="10dp"></Button>
+
+</LinearLayout>

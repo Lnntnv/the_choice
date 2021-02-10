@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">cursach</string>
+    <string name="start_game">Начать игру</string>
+    <string name="back">Назад</string>
+    <string name="preview">В этой игре вам предстоит догадаться: по какому принципу сравнивать числа и выбирать правиотное из двух.
+        За правильный ответ вы будете получать 1 балл, за неправильный терять два балла.Для прохождения уровня необходимо набрать 20 баллов. Желаем вам удачной игры.</string>
+    <string name="understand">Понятно</string>
+    <string name="level">Уровень: </string>
+    <string name="level_end">Уровень пройден!</string>
+    <string name="change_level">Выбрать уровень</string>
+    <string name="button_delete_level_info">Очистить прогресс</string>
+    <string name="level_1">УРОВЕНЬ 1</string>
+    <string name="level_2">УРОВЕНЬ 2</string>
+    <string name="level_3">УРОВЕНЬ 3</string>
+    <string name="level_4">УРОВЕНЬ 4</string>
+    <string name="level_5">УРОВЕНЬ 5</string>
+    <string name="level_6">УРОВЕНЬ 6</string>
+    <string name="level_7">УРОВЕНЬ 7</string>
+    <string name="level_8">УРОВЕНЬ 8</string>
+    <string name="level_9">УРОВЕНЬ 9</string>
+    <string name="level_10">УРОВЕНЬ 10</string>
+    <string name="level_11">УРОВЕНЬ 11</string>
+    <string name="level_12">УРОВЕНЬ 12</string>
+    <string name="level_13">УРОВЕНЬ 13</string>
+    <string name="level_14">УРОВЕНЬ 14</string>
+    <string name="level_15">УРОВЕНЬ 15</string>
+    <string name="next_level">Следующий уровень</string>
+    <string name="statistics">Статистика</string>
+    <string name="statistics_refresh">Удалить прогресс</string>
+    <string name="to_main">В меню</string>
+    <string name="game_end">Поздравляем! \nВы прошли все уровни игры, можете начать заново или заняться чем-то полезным :)</string>
+
+
+</resources>
